@@ -77,3 +77,4 @@ tags
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo,vim,visualstudiocode,linux
+node_modules/*
